@@ -7,6 +7,7 @@ public class GitExampleFile {
         System.out.println(++x);
 
         System.out.println("New update");
+        System.out.println("New code from new branch");
 
 
     }
