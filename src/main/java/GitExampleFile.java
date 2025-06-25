@@ -6,6 +6,8 @@ public class GitExampleFile {
         int x = 0;
         System.out.println(++x);
 
+        System.out.println("New update");
+
 
     }
 }
